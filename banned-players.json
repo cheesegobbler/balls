@@ -1,0 +1,26 @@
+[
+  {
+    "uuid": "0c571d02-32f3-3829-904e-878fd173bc96",
+    "name": "C0deman8",
+    "created": "2023-08-10 22:50:47 -0400",
+    "source": "PR0FEV",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
+    "uuid": "78d49bea-c80f-4846-9582-ad1e3b34d0d6",
+    "name": "5inx",
+    "created": "2023-10-25 13:24:24 -0400",
+    "source": "PR0FEV",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
+    "uuid": "0bec5711-4316-4a8f-b61b-2a119e652082",
+    "name": "Mojang",
+    "created": "2023-12-06 14:39:18 -0500",
+    "source": "Server",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  }
+]

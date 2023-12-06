@@ -1,0 +1,4 @@
+mohist:
+  check_libraries: true
+  libraries_downloadsource: MOHIST
+  installation-finished: false
